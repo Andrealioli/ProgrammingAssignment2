@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## This function will calculates the inverse of a matrix
 ## functions do
 
 ## Write a short comment describing this function
